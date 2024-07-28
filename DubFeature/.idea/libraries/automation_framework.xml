@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="automation-framework">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../webapp-automation-master/out/artifacts/automation_framework_jar/automation-framework.jar!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../webapp-automation-master/out/artifacts/automation_framework_jar/automation-framework.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
